@@ -51,11 +51,11 @@ The analysis is based on 630+ survey responses including the following attribute
 ---
 
 ## 📈 Key Analytical Insights
-- Specialized roles such as Data Scientists report higher average compensation  
-- Geographic distribution significantly influences salary levels  
-- Python dominates as the preferred programming language among professionals  
-- Breaking into data careers is perceived as moderately challenging  
-- Satisfaction indicators reveal important workforce engagement patterns  
+- Data Scientists have the highest average salary among surveyed roles  
+- Salary varies significantly depending on the country  
+- Python is the most preferred programming language  
+- Many respondents feel entering the data field is moderately difficult  
+- Work-life balance and salary satisfaction are around average levels
 
 ---
 
